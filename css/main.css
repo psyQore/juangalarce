@@ -1094,11 +1094,10 @@ header .row {
 	min-height: 66px;
 }
 header .top-bar {
-	display: block;
 	background: #000000;
 	min-width: 200px;
 	min-height: 70px;
-	position: relative;
+	position: sticky;
 }
 header .logo {
 	float: left;

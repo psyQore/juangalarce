@@ -1,0 +1,19 @@
+{
+  "name": "juangalarce",
+  "version": "1.0.0",
+  "description": "miweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Psych0dev/PortafolioJuanGalarce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Psych0dev/PortafolioJuanGalarce/issues"
+  },
+  "homepage": "https://github.com/Psych0dev/PortafolioJuanGalarce#readme"
+}
