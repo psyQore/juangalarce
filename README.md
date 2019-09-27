@@ -1,4 +1,4 @@
-## Portafolio JUan Galarce
+## Portafolio Juan Galarce
 
 Aqui estare subiendo todos mi proyectos :3
 
